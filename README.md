@@ -1,3 +1,3 @@
 # hello-world
-learning
+learnings
 hello there im testing the branch and commit
